@@ -13,19 +13,7 @@ private:
         "I"
     };
 public:
-    string intToRoman(int num) {
-        stirng roman;
-        int i = 0;
-        int k;
-        while(num != 0){
-        	k = num / val[i];
-        	while(k--){
-        		roman += syb[i];
-        		num -= val[i];
-        	}
-        	++i;
-        }
-
-        return roman;
+    int romanToInt(string s) {
+        
     }
 };
