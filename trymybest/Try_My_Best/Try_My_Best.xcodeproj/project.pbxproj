@@ -67,6 +67,7 @@
 		9F56A2BA1BB607C1009F6313 /* 038.Count and Say.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BC1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BE1BB6132B009F6313 /* 205.Isomorphic Strings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2BD1BB6132B009F6313 /* 205.Isomorphic Strings.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2C01BB616C4009F6313 /* 067.Add Binary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2BF1BB616C4009F6313 /* 067.Add Binary.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1D1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1F1BABAFD90021E7DF /* 008.String_To_Interger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
@@ -144,6 +145,7 @@
 		9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "038.Count and Say.cpp"; sourceTree = "<group>"; };
 		9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "014.Longest Common Prefix.cpp"; sourceTree = "<group>"; };
 		9F56A2BD1BB6132B009F6313 /* 205.Isomorphic Strings.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "205.Isomorphic Strings.cpp"; sourceTree = "<group>"; };
+		9F56A2BF1BB616C4009F6313 /* 067.Add Binary.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "067.Add Binary.cpp"; sourceTree = "<group>"; };
 		9FD99B101BABA66E0021E7DF /* Try_My_Best */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Try_My_Best; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 006.ZigZag_Conversion.cpp; sourceTree = "<group>"; };
 		9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 008.String_To_Interger.cpp; sourceTree = "<group>"; };
@@ -241,6 +243,7 @@
 				9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */,
 				9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */,
 				9F56A2BD1BB6132B009F6313 /* 205.Isomorphic Strings.cpp */,
+				9F56A2BF1BB616C4009F6313 /* 067.Add Binary.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 				9F2765CA1BB59067004765F8 /* 225.Implement Stack using Queues.cpp in Sources */,
 				9F2765C61BB58BAC004765F8 /* 263.Ugly Number.cpp in Sources */,
 				9F2765D01BB59E48004765F8 /* 219.Contains Duplicate II.cpp in Sources */,
+				9F56A2C01BB616C4009F6313 /* 067.Add Binary.cpp in Sources */,
 				9F2765AD1BB388CB004765F8 /* 148.Sort List.cpp in Sources */,
 				9F2765B21BB39276004765F8 /* 070.Climbing Stairs.cpp in Sources */,
 				9F2765991BB2D779004765F8 /* 129.Sum Root to Leaf Numbers.cpp in Sources */,
