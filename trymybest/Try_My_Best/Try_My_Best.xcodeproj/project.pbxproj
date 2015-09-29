@@ -76,6 +76,8 @@
 		9F56A2CC1BB671F8009F6313 /* 155.Min Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2CB1BB671F8009F6313 /* 155.Min Stack.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2CE1BB673D9009F6313 /* 228.Summary Ranges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2CD1BB673D9009F6313 /* 228.Summary Ranges.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2D01BB678DF009F6313 /* 165.Compare Version Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2D41BB96323009F6313 /* 0001.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2D31BB96323009F6313 /* 0001.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2D61BB96B11009F6313 /* 003.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2D51BB96B11009F6313 /* 003.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1D1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1F1BABAFD90021E7DF /* 008.String_To_Interger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
@@ -162,6 +164,8 @@
 		9F56A2CB1BB671F8009F6313 /* 155.Min Stack.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "155.Min Stack.cpp"; sourceTree = "<group>"; };
 		9F56A2CD1BB673D9009F6313 /* 228.Summary Ranges.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "228.Summary Ranges.cpp"; sourceTree = "<group>"; };
 		9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "165.Compare Version Numbers.cpp"; sourceTree = "<group>"; };
+		9F56A2D31BB96323009F6313 /* 0001.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 0001.cpp; sourceTree = "<group>"; };
+		9F56A2D51BB96B11009F6313 /* 003.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 003.cpp; sourceTree = "<group>"; };
 		9FD99B101BABA66E0021E7DF /* Try_My_Best */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Try_My_Best; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 006.ZigZag_Conversion.cpp; sourceTree = "<group>"; };
 		9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 008.String_To_Interger.cpp; sourceTree = "<group>"; };
@@ -208,6 +212,7 @@
 				9F2765A61BB37E54004765F8 /* 021.Merge Two Sorted Lists.cpp */,
 				9F2765A81BB383AD004765F8 /* 023.Merge k Sorted Lists.cpp */,
 				9F2765701BAEF86C004765F8 /* 027.Remove element.cpp */,
+				9F56A2C31BB63685009F6313 /* 028.Implement strStr().cpp */,
 				9F2765721BB17A02004765F8 /* 031.Next Permutation.cpp */,
 				9F2765641BAEA59A004765F8 /* 033.Search_in_Rotated_Sorted_Array.cpp */,
 				9F2765761BB1819C004765F8 /* 036.Valid Sudoku.cpp */,
@@ -244,8 +249,11 @@
 				9F2765981BB2D779004765F8 /* 129.Sum Root to Leaf Numbers.cpp */,
 				9F2765AA1BB38685004765F8 /* 147.Insertion Sort List.cpp */,
 				9F2765AC1BB388CB004765F8 /* 148.Sort List.cpp */,
+				9F56A2CB1BB671F8009F6313 /* 155.Min Stack.cpp */,
+				9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */,
 				9F2765C31BB57951004765F8 /* 202.Happy Number.cpp */,
 				9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */,
+				9F56A2C71BB63F65009F6313 /* 204.Count Primes.cpp */,
 				9F56A2BD1BB6132B009F6313 /* 205.Isomorphic Strings.cpp */,
 				9F2765C11BB57649004765F8 /* 206.Reverse Linked List.cpp */,
 				9F2765B91BB567FA004765F8 /* 217.Contains Duplicate.cpp */,
@@ -253,21 +261,19 @@
 				9F2765D11BB5A3B8004765F8 /* 223.Rectangle Area.cpp */,
 				9F2765C91BB59067004765F8 /* 225.Implement Stack using Queues.cpp */,
 				9F2765B71BB3970A004765F8 /* 226.Invert Binary Tree.cpp */,
+				9F56A2CD1BB673D9009F6313 /* 228.Summary Ranges.cpp */,
 				9F2765C71BB58DF2004765F8 /* 231.Power of Two.cpp */,
 				9F2765BF1BB573B4004765F8 /* 232.Implement Queue using Stacks.cpp */,
+				9F56A2C11BB63188009F6313 /* 234.Palindrome Linked List.cpp */,
 				9F2765B31BB39378004765F8 /* 237.Delete Node in a Linked List.cpp */,
 				9F2765BB1BB56C94004765F8 /* 242.Valid Anagram.cpp */,
+				9F56A2C51BB6386D009F6313 /* 257.Binary Tree Paths.cpp */,
 				9F2765A01BB2E61E004765F8 /* 258.Add Digits.cpp */,
 				9F2765C51BB58BAC004765F8 /* 263.Ugly Number.cpp */,
-				9F2765B51BB395C5004765F8 /* 283.Move Zeroes.cpp */,
-				9F56A2C11BB63188009F6313 /* 234.Palindrome Linked List.cpp */,
-				9F56A2C31BB63685009F6313 /* 028.Implement strStr().cpp */,
-				9F56A2C51BB6386D009F6313 /* 257.Binary Tree Paths.cpp */,
-				9F56A2C71BB63F65009F6313 /* 204.Count Primes.cpp */,
 				9F56A2C91BB67035009F6313 /* 278.First Bad Version.cpp */,
-				9F56A2CB1BB671F8009F6313 /* 155.Min Stack.cpp */,
-				9F56A2CD1BB673D9009F6313 /* 228.Summary Ranges.cpp */,
-				9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */,
+				9F2765B51BB395C5004765F8 /* 283.Move Zeroes.cpp */,
+				9F56A2D31BB96323009F6313 /* 0001.cpp */,
+				9F56A2D51BB96B11009F6313 /* 003.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -346,6 +352,7 @@
 				9F2765CC1BB5926F004765F8 /* 119.Pascal's Triangle II.cpp in Sources */,
 				9F2765A91BB383AD004765F8 /* 023.Merge k Sorted Lists.cpp in Sources */,
 				9F56A2BA1BB607C1009F6313 /* 038.Count and Say.cpp in Sources */,
+				9F56A2D41BB96323009F6313 /* 0001.cpp in Sources */,
 				9F2765631BAE9E17004765F8 /* 080.Remove_From_Duplicates_Sorted_Array_2.cpp in Sources */,
 				9F27659F1BB2E341004765F8 /* 009.Palindrome Number.cpp in Sources */,
 				9F2765A51BB379AF004765F8 /* 088.Merge Sorted Array.cpp in Sources */,
@@ -399,6 +406,7 @@
 				9F56A2C41BB63685009F6313 /* 028.Implement strStr().cpp in Sources */,
 				9F27656F1BAEEE12004765F8 /* 018.4Sum.cpp in Sources */,
 				9F56A2C61BB6386D009F6313 /* 257.Binary Tree Paths.cpp in Sources */,
+				9F56A2D61BB96B11009F6313 /* 003.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
