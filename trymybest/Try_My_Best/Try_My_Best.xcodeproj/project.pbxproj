@@ -78,6 +78,7 @@
 		9F56A2D01BB678DF009F6313 /* 165.Compare Version Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2D41BB96323009F6313 /* 0001.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2D31BB96323009F6313 /* 0001.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2D61BB96B11009F6313 /* 003.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2D51BB96B11009F6313 /* 003.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2D81BBAA800009F6313 /* 00002.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2D71BBAA800009F6313 /* 00002.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1D1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1F1BABAFD90021E7DF /* 008.String_To_Interger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
@@ -166,6 +167,7 @@
 		9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "165.Compare Version Numbers.cpp"; sourceTree = "<group>"; };
 		9F56A2D31BB96323009F6313 /* 0001.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 0001.cpp; sourceTree = "<group>"; };
 		9F56A2D51BB96B11009F6313 /* 003.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 003.cpp; sourceTree = "<group>"; };
+		9F56A2D71BBAA800009F6313 /* 00002.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 00002.cpp; sourceTree = "<group>"; };
 		9FD99B101BABA66E0021E7DF /* Try_My_Best */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Try_My_Best; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 006.ZigZag_Conversion.cpp; sourceTree = "<group>"; };
 		9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 008.String_To_Interger.cpp; sourceTree = "<group>"; };
@@ -274,6 +276,7 @@
 				9F2765B51BB395C5004765F8 /* 283.Move Zeroes.cpp */,
 				9F56A2D31BB96323009F6313 /* 0001.cpp */,
 				9F56A2D51BB96B11009F6313 /* 003.cpp */,
+				9F56A2D71BBAA800009F6313 /* 00002.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -396,6 +399,7 @@
 				9F2765691BAEAFE4004765F8 /* 081.Search in Rotated Sorted Array II.cpp in Sources */,
 				9F2765791BB189EC004765F8 /* 042.Trapping Rain Water.cpp in Sources */,
 				9F27659B1BB2DA7D004765F8 /* 050.Pow(x, n).cpp in Sources */,
+				9F56A2D81BBAA800009F6313 /* 00002.cpp in Sources */,
 				9F56A2CA1BB67035009F6313 /* 278.First Bad Version.cpp in Sources */,
 				9F2765931BB2BC5E004765F8 /* 108.Convert Sorted Array to Binary Search Tree.cpp in Sources */,
 				9F2765AB1BB38685004765F8 /* 147.Insertion Sort List.cpp in Sources */,
