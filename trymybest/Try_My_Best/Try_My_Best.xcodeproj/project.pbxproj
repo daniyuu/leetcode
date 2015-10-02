@@ -83,6 +83,10 @@
 		9F56A2DD1BBE1783009F6313 /* 073.Set Matrix Zeroes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2DC1BBE1783009F6313 /* 073.Set Matrix Zeroes.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2DF1BBE193C009F6313 /* 134.Gas Station.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2DE1BBE193C009F6313 /* 134.Gas Station.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2E11BBE1CDE009F6313 /* 135.Candy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2E01BBE1CDE009F6313 /* 135.Candy.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2E71BBE62F9009F6313 /* 083.Remove Duplicates from Sorted List II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2E61BBE62F9009F6313 /* 083.Remove Duplicates from Sorted List II.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2E91BBE6781009F6313 /* 024.Swap Nodes in Pairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2E81BBE6781009F6313 /* 024.Swap Nodes in Pairs.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2EB1BBE705E009F6313 /* 260.Single Number III.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2EA1BBE705E009F6313 /* 260.Single Number III.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56A2ED1BBE73EE009F6313 /* 035.Search Insert Position.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2EC1BBE73EE009F6313 /* 035.Search Insert Position.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1D1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1F1BABAFD90021E7DF /* 008.String_To_Interger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
@@ -176,6 +180,10 @@
 		9F56A2DC1BBE1783009F6313 /* 073.Set Matrix Zeroes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "073.Set Matrix Zeroes.cpp"; sourceTree = "<group>"; };
 		9F56A2DE1BBE193C009F6313 /* 134.Gas Station.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "134.Gas Station.cpp"; sourceTree = "<group>"; };
 		9F56A2E01BBE1CDE009F6313 /* 135.Candy.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 135.Candy.cpp; sourceTree = "<group>"; };
+		9F56A2E61BBE62F9009F6313 /* 083.Remove Duplicates from Sorted List II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "083.Remove Duplicates from Sorted List II.cpp"; sourceTree = "<group>"; };
+		9F56A2E81BBE6781009F6313 /* 024.Swap Nodes in Pairs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "024.Swap Nodes in Pairs.cpp"; sourceTree = "<group>"; };
+		9F56A2EA1BBE705E009F6313 /* 260.Single Number III.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "260.Single Number III.cpp"; sourceTree = "<group>"; };
+		9F56A2EC1BBE73EE009F6313 /* 035.Search Insert Position.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "035.Search Insert Position.cpp"; sourceTree = "<group>"; };
 		9FD99B101BABA66E0021E7DF /* Try_My_Best */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Try_My_Best; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 006.ZigZag_Conversion.cpp; sourceTree = "<group>"; };
 		9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 008.String_To_Interger.cpp; sourceTree = "<group>"; };
@@ -297,6 +305,10 @@
 				9F56A2DC1BBE1783009F6313 /* 073.Set Matrix Zeroes.cpp */,
 				9F56A2DE1BBE193C009F6313 /* 134.Gas Station.cpp */,
 				9F56A2E01BBE1CDE009F6313 /* 135.Candy.cpp */,
+				9F56A2E61BBE62F9009F6313 /* 083.Remove Duplicates from Sorted List II.cpp */,
+				9F56A2E81BBE6781009F6313 /* 024.Swap Nodes in Pairs.cpp */,
+				9F56A2EA1BBE705E009F6313 /* 260.Single Number III.cpp */,
+				9F56A2EC1BBE73EE009F6313 /* 035.Search Insert Position.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -360,6 +372,7 @@
 				9F2765D21BB5A3B8004765F8 /* 223.Rectangle Area.cpp in Sources */,
 				9F56A2D01BB678DF009F6313 /* 165.Compare Version Numbers.cpp in Sources */,
 				9F2765C41BB57951004765F8 /* 202.Happy Number.cpp in Sources */,
+				9F56A2EB1BBE705E009F6313 /* 260.Single Number III.cpp in Sources */,
 				9F27659D1BB2DCE0004765F8 /* 069.Sqrt(x).cpp in Sources */,
 				9F2765B81BB3970A004765F8 /* 226.Invert Binary Tree.cpp in Sources */,
 				9F2765871BB27562004765F8 /* 114.Flatten Binary Tree to Linked List.cpp in Sources */,
@@ -387,6 +400,7 @@
 				9F2765651BAEA59A004765F8 /* 033.Search_in_Rotated_Sorted_Array.cpp in Sources */,
 				9F2765CA1BB59067004765F8 /* 225.Implement Stack using Queues.cpp in Sources */,
 				9F2765C61BB58BAC004765F8 /* 263.Ugly Number.cpp in Sources */,
+				9F56A2ED1BBE73EE009F6313 /* 035.Search Insert Position.cpp in Sources */,
 				9F56A2CC1BB671F8009F6313 /* 155.Min Stack.cpp in Sources */,
 				9F2765D01BB59E48004765F8 /* 219.Contains Duplicate II.cpp in Sources */,
 				9F56A2C01BB616C4009F6313 /* 067.Add Binary.cpp in Sources */,
@@ -426,10 +440,12 @@
 				9F56A2CA1BB67035009F6313 /* 278.First Bad Version.cpp in Sources */,
 				9F2765931BB2BC5E004765F8 /* 108.Convert Sorted Array to Binary Search Tree.cpp in Sources */,
 				9F2765AB1BB38685004765F8 /* 147.Insertion Sort List.cpp in Sources */,
+				9F56A2E71BBE62F9009F6313 /* 083.Remove Duplicates from Sorted List II.cpp in Sources */,
 				9F27657F1BB1A400004765F8 /* 107.Binary Tree Level Order Traversal II.cpp in Sources */,
 				9F2765BC1BB56C94004765F8 /* 242.Valid Anagram.cpp in Sources */,
 				9F56A2BE1BB6132B009F6313 /* 205.Isomorphic Strings.cpp in Sources */,
 				9F2765C01BB573B4004765F8 /* 232.Implement Queue using Stacks.cpp in Sources */,
+				9F56A2E91BBE6781009F6313 /* 024.Swap Nodes in Pairs.cpp in Sources */,
 				9F56A2DF1BBE193C009F6313 /* 134.Gas Station.cpp in Sources */,
 				9F56A2C41BB63685009F6313 /* 028.Implement strStr().cpp in Sources */,
 				9F27656F1BAEEE12004765F8 /* 018.4Sum.cpp in Sources */,
