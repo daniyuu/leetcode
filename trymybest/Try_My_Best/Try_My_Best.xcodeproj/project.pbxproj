@@ -63,6 +63,7 @@
 		9F2765CE1BB59B14004765F8 /* 019.Remove Nth Node From End of List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2765CD1BB59B14004765F8 /* 019.Remove Nth Node From End of List.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F2765D01BB59E48004765F8 /* 219.Contains Duplicate II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2765CF1BB59E48004765F8 /* 219.Contains Duplicate II.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F2765D21BB5A3B8004765F8 /* 223.Rectangle Area.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2765D11BB5A3B8004765F8 /* 223.Rectangle Area.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F29984B1BBEBED800127AFD /* 137.Single Number II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F29984A1BBEBED800127AFD /* 137.Single Number II.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2B81BB60518009F6313 /* 203.Remove Linked List Elements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BA1BB607C1009F6313 /* 038.Count and Say.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BC1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */; settings = {ASSET_TAGS = (); }; };
@@ -160,6 +161,7 @@
 		9F2765CD1BB59B14004765F8 /* 019.Remove Nth Node From End of List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "019.Remove Nth Node From End of List.cpp"; sourceTree = "<group>"; };
 		9F2765CF1BB59E48004765F8 /* 219.Contains Duplicate II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "219.Contains Duplicate II.cpp"; sourceTree = "<group>"; };
 		9F2765D11BB5A3B8004765F8 /* 223.Rectangle Area.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "223.Rectangle Area.cpp"; sourceTree = "<group>"; };
+		9F29984A1BBEBED800127AFD /* 137.Single Number II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "137.Single Number II.cpp"; sourceTree = "<group>"; };
 		9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "203.Remove Linked List Elements.cpp"; sourceTree = "<group>"; };
 		9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "038.Count and Say.cpp"; sourceTree = "<group>"; };
 		9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "014.Longest Common Prefix.cpp"; sourceTree = "<group>"; };
@@ -309,6 +311,7 @@
 				9F56A2E81BBE6781009F6313 /* 024.Swap Nodes in Pairs.cpp */,
 				9F56A2EA1BBE705E009F6313 /* 260.Single Number III.cpp */,
 				9F56A2EC1BBE73EE009F6313 /* 035.Search Insert Position.cpp */,
+				9F29984A1BBEBED800127AFD /* 137.Single Number II.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -441,6 +444,7 @@
 				9F2765931BB2BC5E004765F8 /* 108.Convert Sorted Array to Binary Search Tree.cpp in Sources */,
 				9F2765AB1BB38685004765F8 /* 147.Insertion Sort List.cpp in Sources */,
 				9F56A2E71BBE62F9009F6313 /* 083.Remove Duplicates from Sorted List II.cpp in Sources */,
+				9F29984B1BBEBED800127AFD /* 137.Single Number II.cpp in Sources */,
 				9F27657F1BB1A400004765F8 /* 107.Binary Tree Level Order Traversal II.cpp in Sources */,
 				9F2765BC1BB56C94004765F8 /* 242.Valid Anagram.cpp in Sources */,
 				9F56A2BE1BB6132B009F6313 /* 205.Isomorphic Strings.cpp in Sources */,
