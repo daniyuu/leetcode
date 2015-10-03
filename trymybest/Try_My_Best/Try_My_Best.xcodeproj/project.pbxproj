@@ -69,6 +69,7 @@
 		9F2998521BBED01200127AFD /* 046.Permutations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2998511BBED01200127AFD /* 046.Permutations.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F2998541BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2998531BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F2998561BBF6BCB00127AFD /* 143.Reorder List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2998551BBF6BCB00127AFD /* 143.Reorder List.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F2998581BBF78EF00127AFD /* 010.Regular Expression Matching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2998571BBF78EF00127AFD /* 010.Regular Expression Matching.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2B81BB60518009F6313 /* 203.Remove Linked List Elements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BA1BB607C1009F6313 /* 038.Count and Say.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BC1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */; settings = {ASSET_TAGS = (); }; };
@@ -172,6 +173,7 @@
 		9F2998511BBED01200127AFD /* 046.Permutations.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 046.Permutations.cpp; sourceTree = "<group>"; };
 		9F2998531BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "025.Reverse Nodes in k-Group.cpp"; sourceTree = "<group>"; };
 		9F2998551BBF6BCB00127AFD /* 143.Reorder List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "143.Reorder List.cpp"; sourceTree = "<group>"; };
+		9F2998571BBF78EF00127AFD /* 010.Regular Expression Matching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "010.Regular Expression Matching.cpp"; sourceTree = "<group>"; };
 		9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "203.Remove Linked List Elements.cpp"; sourceTree = "<group>"; };
 		9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "038.Count and Say.cpp"; sourceTree = "<group>"; };
 		9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "014.Longest Common Prefix.cpp"; sourceTree = "<group>"; };
@@ -327,6 +329,7 @@
 				9F56A2D91BBE1699009F6313 /* microsoft */,
 				9F2998531BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp */,
 				9F2998551BBF6BCB00127AFD /* 143.Reorder List.cpp */,
+				9F2998571BBF78EF00127AFD /* 010.Regular Expression Matching.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -416,6 +419,7 @@
 				9F2765A71BB37E54004765F8 /* 021.Merge Two Sorted Lists.cpp in Sources */,
 				9F2765CE1BB59B14004765F8 /* 019.Remove Nth Node From End of List.cpp in Sources */,
 				9F29984E1BBEC24200127AFD /* 268.Missing Number.cpp in Sources */,
+				9F2998581BBF78EF00127AFD /* 010.Regular Expression Matching.cpp in Sources */,
 				9F2765651BAEA59A004765F8 /* 033.Search_in_Rotated_Sorted_Array.cpp in Sources */,
 				9F2765CA1BB59067004765F8 /* 225.Implement Stack using Queues.cpp in Sources */,
 				9F2765C61BB58BAC004765F8 /* 263.Ugly Number.cpp in Sources */,
