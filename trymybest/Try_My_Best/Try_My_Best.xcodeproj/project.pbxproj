@@ -67,6 +67,8 @@
 		9F29984E1BBEC24200127AFD /* 268.Missing Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F29984D1BBEC24200127AFD /* 268.Missing Number.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F2998501BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F29984F1BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F2998521BBED01200127AFD /* 046.Permutations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2998511BBED01200127AFD /* 046.Permutations.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F2998541BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2998531BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F2998561BBF6BCB00127AFD /* 143.Reorder List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F2998551BBF6BCB00127AFD /* 143.Reorder List.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2B81BB60518009F6313 /* 203.Remove Linked List Elements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BA1BB607C1009F6313 /* 038.Count and Say.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BC1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */; settings = {ASSET_TAGS = (); }; };
@@ -168,6 +170,8 @@
 		9F29984D1BBEC24200127AFD /* 268.Missing Number.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "268.Missing Number.cpp"; sourceTree = "<group>"; };
 		9F29984F1BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "153.Find Minimum in Rotated Sorted Array.cpp"; sourceTree = "<group>"; };
 		9F2998511BBED01200127AFD /* 046.Permutations.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 046.Permutations.cpp; sourceTree = "<group>"; };
+		9F2998531BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "025.Reverse Nodes in k-Group.cpp"; sourceTree = "<group>"; };
+		9F2998551BBF6BCB00127AFD /* 143.Reorder List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "143.Reorder List.cpp"; sourceTree = "<group>"; };
 		9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "203.Remove Linked List Elements.cpp"; sourceTree = "<group>"; };
 		9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "038.Count and Say.cpp"; sourceTree = "<group>"; };
 		9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "014.Longest Common Prefix.cpp"; sourceTree = "<group>"; };
@@ -256,6 +260,7 @@
 				9F2765761BB1819C004765F8 /* 036.Valid Sudoku.cpp */,
 				9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */,
 				9F2765781BB189EC004765F8 /* 042.Trapping Rain Water.cpp */,
+				9F2998511BBED01200127AFD /* 046.Permutations.cpp */,
 				9F27657A1BB1955C004765F8 /* 048.Rotate Image.cpp */,
 				9F27659A1BB2DA7D004765F8 /* 050.Pow(x, n).cpp */,
 				9F2765741BB17B7F004765F8 /* 060.Permutation Sequence.cpp */,
@@ -293,6 +298,7 @@
 				9F29984A1BBEBED800127AFD /* 137.Single Number II.cpp */,
 				9F2765AA1BB38685004765F8 /* 147.Insertion Sort List.cpp */,
 				9F2765AC1BB388CB004765F8 /* 148.Sort List.cpp */,
+				9F29984F1BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp */,
 				9F56A2CB1BB671F8009F6313 /* 155.Min Stack.cpp */,
 				9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */,
 				9F2765C31BB57951004765F8 /* 202.Happy Number.cpp */,
@@ -315,12 +321,12 @@
 				9F2765A01BB2E61E004765F8 /* 258.Add Digits.cpp */,
 				9F56A2EA1BBE705E009F6313 /* 260.Single Number III.cpp */,
 				9F2765C51BB58BAC004765F8 /* 263.Ugly Number.cpp */,
+				9F29984D1BBEC24200127AFD /* 268.Missing Number.cpp */,
 				9F56A2C91BB67035009F6313 /* 278.First Bad Version.cpp */,
 				9F2765B51BB395C5004765F8 /* 283.Move Zeroes.cpp */,
 				9F56A2D91BBE1699009F6313 /* microsoft */,
-				9F29984D1BBEC24200127AFD /* 268.Missing Number.cpp */,
-				9F29984F1BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp */,
-				9F2998511BBED01200127AFD /* 046.Permutations.cpp */,
+				9F2998531BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp */,
+				9F2998551BBF6BCB00127AFD /* 143.Reorder List.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -432,6 +438,7 @@
 				9F2765A31BB2E69A004765F8 /* 083.Remove Duplicates from Sorted List.cpp in Sources */,
 				9F27657D1BB1A1CB004765F8 /* 102.Binary Tree Level Order Traversal.cpp in Sources */,
 				9F2765B61BB395C5004765F8 /* 283.Move Zeroes.cpp in Sources */,
+				9F2998541BBF657000127AFD /* 025.Reverse Nodes in k-Group.cpp in Sources */,
 				9F56A2E11BBE1CDE009F6313 /* 135.Candy.cpp in Sources */,
 				9F2765C81BB58DF2004765F8 /* 231.Power of Two.cpp in Sources */,
 				9F27657B1BB1955C004765F8 /* 048.Rotate Image.cpp in Sources */,
@@ -454,6 +461,7 @@
 				9F56A2D81BBAA800009F6313 /* 00002.cpp in Sources */,
 				9F56A2CA1BB67035009F6313 /* 278.First Bad Version.cpp in Sources */,
 				9F2765931BB2BC5E004765F8 /* 108.Convert Sorted Array to Binary Search Tree.cpp in Sources */,
+				9F2998561BBF6BCB00127AFD /* 143.Reorder List.cpp in Sources */,
 				9F2765AB1BB38685004765F8 /* 147.Insertion Sort List.cpp in Sources */,
 				9F56A2E71BBE62F9009F6313 /* 083.Remove Duplicates from Sorted List II.cpp in Sources */,
 				9F29984B1BBEBED800127AFD /* 137.Single Number II.cpp in Sources */,
