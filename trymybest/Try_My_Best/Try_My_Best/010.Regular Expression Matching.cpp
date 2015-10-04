@@ -41,12 +41,16 @@ public:
 
 
 int main(){
-    Solution a;
-    string s;
-    string p;
-    cin >> s;
-    cin >> p;
-    
-    cout << a.isMatch(s, p);
+//    Solution a;
+//    string s;
+//    string p;
+//    cin >> s;
+//    cin >> p;
+//    
+//    cout << a.isMatch(s, p);
+    int i;
+    int sum  =0;
+    for(i=0;i<10;++i,sum+=i);
+    cout << i << endl;
     
 }
