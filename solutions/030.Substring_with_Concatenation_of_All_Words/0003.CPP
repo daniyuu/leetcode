@@ -1,51 +1,49 @@
-#include<iostream>
+#define _CRT_SECURE_NO_WARNINGS
+#include <cstdio>
+#include <cstring>
+#include <algorithm>
+#include <utility>
+#include <string>
+#include <set>
+#include <queue>
+#include <iostream>
+#include <vector>
+#include <map>
+#include <numeric>
+
 using namespace std;
-long long n;
-long long *a;
-long long count;
-long long *fib;
 
-void f(long long index, long long current_length)
-{
-    if(index == n)
-    {
-        return;
-    }
 
-    if(a[index] == fib[current_length])
-    {
-        count++;
-        f(index+1,current_length+1);
-        f(index+1,current_length);
-    }
-    else
-    {
-        f(index+1,current_length);
-    }
-}
-
+long long MOD = 1000000007;
+int fib[100002];
+long long sub[10000];
 int main()
 {
-    count = 0;
-
-    cin>>n;
-    a = new long long[n];
-    for(long long i=0;i<n;++i)
-    {
-        cin>>a[i];
+    for (int x = 1, y = 1, n = 1; y <= 100000; ) {
+        fib[y] = n;
+        y = x + y;
+        x = y - x;
+        n++;
     }
-
-    fib = new long long[n];
-    fib[0]=1;
-    fib[1]=1;
-    for(long long i=2;i<n;++i)
-    {
-        fib[i] = fib[i-1] + fib[i-2];
+    int n;
+    cin >> n;
+    for (int i = 0; i < n; i++) {
+        int ai;
+        cin >> ai;
+        if (ai == 1) {
+            sub[1] += (sub[0] != 0) * sub[0];
+            sub[0]++;
+        }
+        else {
+            if (fib[ai] != 0) {
+                sub[fib[ai]] += sub[fib[ai] - 1];
+                sub[fib[ai]] %= MOD;
+            }
+        }
     }
-
-    f(0,0);
-
-    cout<<count;
-
+    long long ans = 0;
+    for (auto k : sub)
+        ans = (ans + k) % MOD;
+    printf("%lld\n", ans);
     return 0;
 }

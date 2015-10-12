@@ -67,6 +67,11 @@ void DijkstraPath(MGraph g,int *dist,int *path,int v0)   //v0表示源顶点
 
 void modify(MGraph g, int *dist, int *path ,int v0){
     DijkstraPath(g,dist,path,v0);
+
+    for (int i = 0; i < n; ++i)
+    {
+        /* code */
+    }
 }
 
 int query(MGraph g, int *dist ,int *path){
