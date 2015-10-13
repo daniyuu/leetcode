@@ -64,10 +64,10 @@ public:
     }
 };
 
-int main(){
-    Solution s;
-    string a = "  1    2 ";
-    s.reverseWords(a);
-    cout << a ;
-//    cout << a.substr(1);
-}
+//int main(){
+//    Solution s;
+//    string a = "  1    2 ";
+//    s.reverseWords(a);
+//    cout << a ;
+////    cout << a.substr(1);
+//}
