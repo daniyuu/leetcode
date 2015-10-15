@@ -107,6 +107,7 @@
 		9F56AE341BCD542E00855063 /* 074.Search a 2D Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE331BCD542E00855063 /* 074.Search a 2D Matrix.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56AE361BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE351BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56AE381BCD5A9500855063 /* 077.Combinations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE371BCD5A9500855063 /* 077.Combinations.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56AE3A1BCF447D00855063 /* 142.Linked List Cycle II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE391BCF447D00855063 /* 142.Linked List Cycle II.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1D1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1F1BABAFD90021E7DF /* 008.String_To_Interger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
@@ -224,6 +225,7 @@
 		9F56AE331BCD542E00855063 /* 074.Search a 2D Matrix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "074.Search a 2D Matrix.cpp"; sourceTree = "<group>"; };
 		9F56AE351BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "230.Kth Smallest Element in a BST.cpp"; sourceTree = "<group>"; };
 		9F56AE371BCD5A9500855063 /* 077.Combinations.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 077.Combinations.cpp; sourceTree = "<group>"; };
+		9F56AE391BCF447D00855063 /* 142.Linked List Cycle II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "142.Linked List Cycle II.cpp"; sourceTree = "<group>"; };
 		9FD99B101BABA66E0021E7DF /* Try_My_Best */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Try_My_Best; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 006.ZigZag_Conversion.cpp; sourceTree = "<group>"; };
 		9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 008.String_To_Interger.cpp; sourceTree = "<group>"; };
@@ -369,6 +371,7 @@
 				9F56AE331BCD542E00855063 /* 074.Search a 2D Matrix.cpp */,
 				9F56AE351BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp */,
 				9F56AE371BCD5A9500855063 /* 077.Combinations.cpp */,
+				9F56AE391BCF447D00855063 /* 142.Linked List Cycle II.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -444,6 +447,7 @@
 				9F2765771BB1819C004765F8 /* 036.Valid Sudoku.cpp in Sources */,
 				9F2765831BB271D0004765F8 /* 101.Symmetric Tree.cpp in Sources */,
 				9FD99B1D1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp in Sources */,
+				9F56AE3A1BCF447D00855063 /* 142.Linked List Cycle II.cpp in Sources */,
 				9F56A2DB1BBE16BE009F6313 /* 089.Gray Code.cpp in Sources */,
 				9F2765731BB17A02004765F8 /* 031.Next Permutation.cpp in Sources */,
 				9F2765CC1BB5926F004765F8 /* 119.Pascal's Triangle II.cpp in Sources */,

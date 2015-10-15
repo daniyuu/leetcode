@@ -31,16 +31,16 @@ public:
     }
 };
 
-int main(){
-    Solution s;
-    int n,k;
-    cin >> n >> k;
-    vector<vector<int>> res;
-    res = s.combine(n, k);
-    for (int i = 0; i < res.size(); ++i) {
-        for (int j = 0; j < res[0].size(); ++j) {
-            cout << res[i][j] << " ";
-        }
-        cout << endl;
-    }
-}
+//int main(){
+//    Solution s;
+//    int n,k;
+//    cin >> n >> k;
+//    vector<vector<int>> res;
+//    res = s.combine(n, k);
+//    for (int i = 0; i < res.size(); ++i) {
+//        for (int j = 0; j < res[0].size(); ++j) {
+//            cout << res[i][j] << " ";
+//        }
+//        cout << endl;
+//    }
+//}
