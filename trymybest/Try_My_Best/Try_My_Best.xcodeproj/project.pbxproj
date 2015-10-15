@@ -108,6 +108,11 @@
 		9F56AE361BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE351BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56AE381BCD5A9500855063 /* 077.Combinations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE371BCD5A9500855063 /* 077.Combinations.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56AE3A1BCF447D00855063 /* 142.Linked List Cycle II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE391BCF447D00855063 /* 142.Linked List Cycle II.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56AE3C1BCFD4BB00855063 /* 284.Peeking Iterator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE3B1BCFD4BB00855063 /* 284.Peeking Iterator.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56AE3E1BCFD96500855063 /* 216.Combination Sum III.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE3D1BCFD96500855063 /* 216.Combination Sum III.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56AE401BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE3F1BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56AE421BCFE36A00855063 /* 199.Binary Tree Right Side View.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE411BCFE36A00855063 /* 199.Binary Tree Right Side View.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F56AE441BCFF1B300855063 /* 279.Perfect Squares.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56AE431BCFF1B300855063 /* 279.Perfect Squares.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1D1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */; settings = {ASSET_TAGS = (); }; };
 		9FD99B1F1BABAFD90021E7DF /* 008.String_To_Interger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
@@ -226,6 +231,11 @@
 		9F56AE351BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "230.Kth Smallest Element in a BST.cpp"; sourceTree = "<group>"; };
 		9F56AE371BCD5A9500855063 /* 077.Combinations.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 077.Combinations.cpp; sourceTree = "<group>"; };
 		9F56AE391BCF447D00855063 /* 142.Linked List Cycle II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "142.Linked List Cycle II.cpp"; sourceTree = "<group>"; };
+		9F56AE3B1BCFD4BB00855063 /* 284.Peeking Iterator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "284.Peeking Iterator.cpp"; sourceTree = "<group>"; };
+		9F56AE3D1BCFD96500855063 /* 216.Combination Sum III.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "216.Combination Sum III.cpp"; sourceTree = "<group>"; };
+		9F56AE3F1BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "240.Search a 2D Matrix II.cpp"; sourceTree = "<group>"; };
+		9F56AE411BCFE36A00855063 /* 199.Binary Tree Right Side View.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "199.Binary Tree Right Side View.cpp"; sourceTree = "<group>"; };
+		9F56AE431BCFF1B300855063 /* 279.Perfect Squares.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "279.Perfect Squares.cpp"; sourceTree = "<group>"; };
 		9FD99B101BABA66E0021E7DF /* Try_My_Best */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Try_My_Best; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD99B1C1BABA7250021E7DF /* 006.ZigZag_Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 006.ZigZag_Conversion.cpp; sourceTree = "<group>"; };
 		9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 008.String_To_Interger.cpp; sourceTree = "<group>"; };
@@ -276,6 +286,7 @@
 				9FD99B1E1BABAFD90021E7DF /* 008.String_To_Interger.cpp */,
 				9F27659E1BB2E341004765F8 /* 009.Palindrome Number.cpp */,
 				9F2998571BBF78EF00127AFD /* 010.Regular Expression Matching.cpp */,
+				9F56AE311BCD3C2E00855063 /* 011.Container_With_Most_Water.cpp */,
 				9F2765BD1BB56E53004765F8 /* 013.Roman to Integer.cpp */,
 				9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */,
 				9F27656E1BAEEE12004765F8 /* 018.4Sum.cpp */,
@@ -303,7 +314,9 @@
 				9F27659C1BB2DCE0004765F8 /* 069.Sqrt(x).cpp */,
 				9F2765B11BB39276004765F8 /* 070.Climbing Stairs.cpp */,
 				9F56A2DC1BBE1783009F6313 /* 073.Set Matrix Zeroes.cpp */,
+				9F56AE331BCD542E00855063 /* 074.Search a 2D Matrix.cpp */,
 				9F2765AE1BB38E68004765F8 /* 075.Sort Colors.cpp */,
+				9F56AE371BCD5A9500855063 /* 077.Combinations.cpp */,
 				9F2765601BAE9499004765F8 /* 080.Remove_Duplicates_From_Sorted_Array.cpp */,
 				9F2765621BAE9E17004765F8 /* 080.Remove_From_Duplicates_Sorted_Array_2.cpp */,
 				9F2765681BAEAFE4004765F8 /* 081.Search in Rotated Sorted Array II.cpp */,
@@ -333,11 +346,13 @@
 				9F56A2DE1BBE193C009F6313 /* 134.Gas Station.cpp */,
 				9F56A2E01BBE1CDE009F6313 /* 135.Candy.cpp */,
 				9F29984A1BBEBED800127AFD /* 137.Single Number II.cpp */,
+				9F56AE391BCF447D00855063 /* 142.Linked List Cycle II.cpp */,
 				9F2998551BBF6BCB00127AFD /* 143.Reorder List.cpp */,
 				9F2765AA1BB38685004765F8 /* 147.Insertion Sort List.cpp */,
 				9F2765AC1BB388CB004765F8 /* 148.Sort List.cpp */,
 				9F44E9601BCCC1500040941C /* 151. Reverse Words in a String.cpp */,
 				9F29984F1BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp */,
+				9F56AE3D1BCFD96500855063 /* 216.Combination Sum III.cpp */,
 				9F56A2CB1BB671F8009F6313 /* 155.Min Stack.cpp */,
 				9F2998611BCBF2EB00127AFD /* 162.Find Peak Element.cpp */,
 				9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */,
@@ -354,6 +369,7 @@
 				9F2765C91BB59067004765F8 /* 225.Implement Stack using Queues.cpp */,
 				9F2765B71BB3970A004765F8 /* 226.Invert Binary Tree.cpp */,
 				9F56A2CD1BB673D9009F6313 /* 228.Summary Ranges.cpp */,
+				9F56AE351BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp */,
 				9F2765C71BB58DF2004765F8 /* 231.Power of Two.cpp */,
 				9F2765BF1BB573B4004765F8 /* 232.Implement Queue using Stacks.cpp */,
 				9F56A2C11BB63188009F6313 /* 234.Palindrome Linked List.cpp */,
@@ -367,11 +383,10 @@
 				9F56A2C91BB67035009F6313 /* 278.First Bad Version.cpp */,
 				9F2765B51BB395C5004765F8 /* 283.Move Zeroes.cpp */,
 				9F56A2D91BBE1699009F6313 /* microsoft */,
-				9F56AE311BCD3C2E00855063 /* 011.Container_With_Most_Water.cpp */,
-				9F56AE331BCD542E00855063 /* 074.Search a 2D Matrix.cpp */,
-				9F56AE351BCD580D00855063 /* 230.Kth Smallest Element in a BST.cpp */,
-				9F56AE371BCD5A9500855063 /* 077.Combinations.cpp */,
-				9F56AE391BCF447D00855063 /* 142.Linked List Cycle II.cpp */,
+				9F56AE3B1BCFD4BB00855063 /* 284.Peeking Iterator.cpp */,
+				9F56AE3F1BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp */,
+				9F56AE411BCFE36A00855063 /* 199.Binary Tree Right Side View.cpp */,
+				9F56AE431BCFF1B300855063 /* 279.Perfect Squares.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -458,6 +473,7 @@
 				9F27659F1BB2E341004765F8 /* 009.Palindrome Number.cpp in Sources */,
 				9F56AE321BCD3C2E00855063 /* 011.Container_With_Most_Water.cpp in Sources */,
 				9F2765A51BB379AF004765F8 /* 088.Merge Sorted Array.cpp in Sources */,
+				9F56AE3C1BCFD4BB00855063 /* 284.Peeking Iterator.cpp in Sources */,
 				9F56A2DD1BBE1783009F6313 /* 073.Set Matrix Zeroes.cpp in Sources */,
 				9F56A2C21BB63188009F6313 /* 234.Palindrome Linked List.cpp in Sources */,
 				9F2765A71BB37E54004765F8 /* 021.Merge Two Sorted Lists.cpp in Sources */,
@@ -467,6 +483,7 @@
 				9F29984E1BBEC24200127AFD /* 268.Missing Number.cpp in Sources */,
 				9F2998581BBF78EF00127AFD /* 010.Regular Expression Matching.cpp in Sources */,
 				9F2765651BAEA59A004765F8 /* 033.Search_in_Rotated_Sorted_Array.cpp in Sources */,
+				9F56AE3E1BCFD96500855063 /* 216.Combination Sum III.cpp in Sources */,
 				9F2765CA1BB59067004765F8 /* 225.Implement Stack using Queues.cpp in Sources */,
 				9F2998621BCBF2EB00127AFD /* 162.Find Peak Element.cpp in Sources */,
 				9F2765C61BB58BAC004765F8 /* 263.Ugly Number.cpp in Sources */,
@@ -476,6 +493,7 @@
 				9F2765D01BB59E48004765F8 /* 219.Contains Duplicate II.cpp in Sources */,
 				9F56A2C01BB616C4009F6313 /* 067.Add Binary.cpp in Sources */,
 				9F2765AD1BB388CB004765F8 /* 148.Sort List.cpp in Sources */,
+				9F56AE401BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp in Sources */,
 				9F56AE341BCD542E00855063 /* 074.Search a 2D Matrix.cpp in Sources */,
 				9F2765B21BB39276004765F8 /* 070.Climbing Stairs.cpp in Sources */,
 				9F44E95D1BCCBE1A0040941C /* 198.House Robber.cpp in Sources */,
@@ -491,6 +509,7 @@
 				9F2765BE1BB56E53004765F8 /* 013.Roman to Integer.cpp in Sources */,
 				9F2765A31BB2E69A004765F8 /* 083.Remove Duplicates from Sorted List.cpp in Sources */,
 				9F56AE381BCD5A9500855063 /* 077.Combinations.cpp in Sources */,
+				9F56AE421BCFE36A00855063 /* 199.Binary Tree Right Side View.cpp in Sources */,
 				9F27657D1BB1A1CB004765F8 /* 102.Binary Tree Level Order Traversal.cpp in Sources */,
 				9F44E95F1BCCBFDC0040941C /* 191.Number of 1 Bits.cpp in Sources */,
 				9F2765B61BB395C5004765F8 /* 283.Move Zeroes.cpp in Sources */,
@@ -513,6 +532,7 @@
 				9F27658D1BB28040004765F8 /* 105.Construct Binary Tree from Preorder and Inorder Traversal.cpp in Sources */,
 				9F2765691BAEAFE4004765F8 /* 081.Search in Rotated Sorted Array II.cpp in Sources */,
 				9F2998521BBED01200127AFD /* 046.Permutations.cpp in Sources */,
+				9F56AE441BCFF1B300855063 /* 279.Perfect Squares.cpp in Sources */,
 				9F2998501BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp in Sources */,
 				9F2765791BB189EC004765F8 /* 042.Trapping Rain Water.cpp in Sources */,
 				9F27659B1BB2DA7D004765F8 /* 050.Pow(x, n).cpp in Sources */,
