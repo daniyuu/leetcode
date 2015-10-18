@@ -77,6 +77,8 @@
 		9F44E95D1BCCBE1A0040941C /* 198.House Robber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F44E95C1BCCBE1A0040941C /* 198.House Robber.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F44E95F1BCCBFDC0040941C /* 191.Number of 1 Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F44E95E1BCCBFDC0040941C /* 191.Number of 1 Bits.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F44E9611BCCC1500040941C /* 151. Reverse Words in a String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F44E9601BCCC1500040941C /* 151. Reverse Words in a String.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F4CB6701BD3BF060058091C /* 235.Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CB66F1BD3BF060058091C /* 235.Lowest Common Ancestor of a Binary Search Tree.cpp */; settings = {ASSET_TAGS = (); }; };
+		9F4CB6721BD3C5A60058091C /* 290.Word Pattern.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CB6711BD3C5A60058091C /* 290.Word Pattern.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2B81BB60518009F6313 /* 203.Remove Linked List Elements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BA1BB607C1009F6313 /* 038.Count and Say.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */; settings = {ASSET_TAGS = (); }; };
 		9F56A2BC1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */; settings = {ASSET_TAGS = (); }; };
@@ -200,6 +202,8 @@
 		9F44E95C1BCCBE1A0040941C /* 198.House Robber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "198.House Robber.cpp"; sourceTree = "<group>"; };
 		9F44E95E1BCCBFDC0040941C /* 191.Number of 1 Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "191.Number of 1 Bits.cpp"; sourceTree = "<group>"; };
 		9F44E9601BCCC1500040941C /* 151. Reverse Words in a String.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "151. Reverse Words in a String.cpp"; sourceTree = "<group>"; };
+		9F4CB66F1BD3BF060058091C /* 235.Lowest Common Ancestor of a Binary Search Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "235.Lowest Common Ancestor of a Binary Search Tree.cpp"; sourceTree = "<group>"; };
+		9F4CB6711BD3C5A60058091C /* 290.Word Pattern.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "290.Word Pattern.cpp"; sourceTree = "<group>"; };
 		9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "203.Remove Linked List Elements.cpp"; sourceTree = "<group>"; };
 		9F56A2B91BB607C1009F6313 /* 038.Count and Say.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "038.Count and Say.cpp"; sourceTree = "<group>"; };
 		9F56A2BB1BB60CB3009F6313 /* 014.Longest Common Prefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "014.Longest Common Prefix.cpp"; sourceTree = "<group>"; };
@@ -352,17 +356,18 @@
 				9F2765AC1BB388CB004765F8 /* 148.Sort List.cpp */,
 				9F44E9601BCCC1500040941C /* 151. Reverse Words in a String.cpp */,
 				9F29984F1BBEC97200127AFD /* 153.Find Minimum in Rotated Sorted Array.cpp */,
-				9F56AE3D1BCFD96500855063 /* 216.Combination Sum III.cpp */,
 				9F56A2CB1BB671F8009F6313 /* 155.Min Stack.cpp */,
 				9F2998611BCBF2EB00127AFD /* 162.Find Peak Element.cpp */,
 				9F56A2CF1BB678DF009F6313 /* 165.Compare Version Numbers.cpp */,
 				9F44E95E1BCCBFDC0040941C /* 191.Number of 1 Bits.cpp */,
 				9F44E95C1BCCBE1A0040941C /* 198.House Robber.cpp */,
+				9F56AE411BCFE36A00855063 /* 199.Binary Tree Right Side View.cpp */,
 				9F2765C31BB57951004765F8 /* 202.Happy Number.cpp */,
 				9F56A2B71BB60518009F6313 /* 203.Remove Linked List Elements.cpp */,
 				9F56A2C71BB63F65009F6313 /* 204.Count Primes.cpp */,
 				9F56A2BD1BB6132B009F6313 /* 205.Isomorphic Strings.cpp */,
 				9F2765C11BB57649004765F8 /* 206.Reverse Linked List.cpp */,
+				9F56AE3D1BCFD96500855063 /* 216.Combination Sum III.cpp */,
 				9F2765B91BB567FA004765F8 /* 217.Contains Duplicate.cpp */,
 				9F2765CF1BB59E48004765F8 /* 219.Contains Duplicate II.cpp */,
 				9F2765D11BB5A3B8004765F8 /* 223.Rectangle Area.cpp */,
@@ -374,6 +379,7 @@
 				9F2765BF1BB573B4004765F8 /* 232.Implement Queue using Stacks.cpp */,
 				9F56A2C11BB63188009F6313 /* 234.Palindrome Linked List.cpp */,
 				9F2765B31BB39378004765F8 /* 237.Delete Node in a Linked List.cpp */,
+				9F56AE3F1BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp */,
 				9F2765BB1BB56C94004765F8 /* 242.Valid Anagram.cpp */,
 				9F56A2C51BB6386D009F6313 /* 257.Binary Tree Paths.cpp */,
 				9F2765A01BB2E61E004765F8 /* 258.Add Digits.cpp */,
@@ -381,12 +387,12 @@
 				9F2765C51BB58BAC004765F8 /* 263.Ugly Number.cpp */,
 				9F29984D1BBEC24200127AFD /* 268.Missing Number.cpp */,
 				9F56A2C91BB67035009F6313 /* 278.First Bad Version.cpp */,
-				9F2765B51BB395C5004765F8 /* 283.Move Zeroes.cpp */,
-				9F56A2D91BBE1699009F6313 /* microsoft */,
-				9F56AE3B1BCFD4BB00855063 /* 284.Peeking Iterator.cpp */,
-				9F56AE3F1BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp */,
-				9F56AE411BCFE36A00855063 /* 199.Binary Tree Right Side View.cpp */,
 				9F56AE431BCFF1B300855063 /* 279.Perfect Squares.cpp */,
+				9F2765B51BB395C5004765F8 /* 283.Move Zeroes.cpp */,
+				9F56AE3B1BCFD4BB00855063 /* 284.Peeking Iterator.cpp */,
+				9F56A2D91BBE1699009F6313 /* microsoft */,
+				9F4CB66F1BD3BF060058091C /* 235.Lowest Common Ancestor of a Binary Search Tree.cpp */,
+				9F4CB6711BD3C5A60058091C /* 290.Word Pattern.cpp */,
 			);
 			path = Try_My_Best;
 			sourceTree = "<group>";
@@ -491,6 +497,7 @@
 				9F56A2ED1BBE73EE009F6313 /* 035.Search Insert Position.cpp in Sources */,
 				9F56A2CC1BB671F8009F6313 /* 155.Min Stack.cpp in Sources */,
 				9F2765D01BB59E48004765F8 /* 219.Contains Duplicate II.cpp in Sources */,
+				9F4CB6721BD3C5A60058091C /* 290.Word Pattern.cpp in Sources */,
 				9F56A2C01BB616C4009F6313 /* 067.Add Binary.cpp in Sources */,
 				9F2765AD1BB388CB004765F8 /* 148.Sort List.cpp in Sources */,
 				9F56AE401BCFDF2800855063 /* 240.Search a 2D Matrix II.cpp in Sources */,
@@ -521,6 +528,7 @@
 				9F2765B41BB39378004765F8 /* 237.Delete Node in a Linked List.cpp in Sources */,
 				9F2765971BB2D4EF004765F8 /* 111.Minimum Depth of Binary Tree.cpp in Sources */,
 				9F27658B1BB27BD6004765F8 /* 117.Populating Next Right Pointers in Each Node II.cpp in Sources */,
+				9F4CB6701BD3BF060058091C /* 235.Lowest Common Ancestor of a Binary Search Tree.cpp in Sources */,
 				9F56AE2E1BCCCB1C00855063 /* 130. Surrounded Regions.cpp in Sources */,
 				9F2765BA1BB567FA004765F8 /* 217.Contains Duplicate.cpp in Sources */,
 				9F2765A11BB2E61E004765F8 /* 258.Add Digits.cpp in Sources */,
