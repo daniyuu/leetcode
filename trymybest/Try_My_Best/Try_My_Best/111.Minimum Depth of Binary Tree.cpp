@@ -19,6 +19,7 @@ struct TreeNode {
 class Solution {
 private:
     int minDepth(TreeNode *root, bool hasbrother){
+        // if the node is null and has a brother, the node is not a leaf node
         if (root == nullptr) {
             return hasbrother? INT_MAX:0;
         }

@@ -1,3 +1,7 @@
+/*
+ * 直接模拟，用set来判断是否陷入死循环
+ */
+
 #include <iostream>
 #include <vector>
 #include <unordered_set>

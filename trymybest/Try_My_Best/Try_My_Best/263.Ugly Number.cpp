@@ -1,3 +1,7 @@
+/*
+ * 只能由 2 3 5 组成 所以能约掉就行了
+ */
+
 class Solution {
 public:
     bool isUgly(int num) {

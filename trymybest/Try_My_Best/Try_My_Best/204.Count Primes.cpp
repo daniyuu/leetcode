@@ -1,3 +1,9 @@
+/*
+ * 提前终止到一些条件
+ * 1.只判断根号n以下的就够了
+ * 2.p^2 + xp也可以提前去掉
+ */
+
 #include <iostream>
 #include <vector>
 using namespace std;
