@@ -1,3 +1,7 @@
+/*
+ * max = maxleft + maxright
+ */
+
 #include <iostream>
 #include <algorithm>
 
