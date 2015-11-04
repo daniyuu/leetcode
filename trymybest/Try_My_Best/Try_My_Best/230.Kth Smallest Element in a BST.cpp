@@ -42,7 +42,6 @@ struct TreeNode{
 //        }
 //    }
 //};
-
 class Solution {
 public:
     int kthSmallest(TreeNode *root, int k){
@@ -54,7 +53,11 @@ public:
     }
     
 private:
+    bool flag = false; // prune
     void visit(TreeNode *root, int k, int &num, int &result){
+        if (flag) {
+            return;
+        }
         if (!root) {
             return;
         }
@@ -63,6 +66,7 @@ private:
             num += 1;
             if (num == k) {
                 result = root->val;
+                flag = true;
                 return;
             }
         }
