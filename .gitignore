@@ -6,3 +6,6 @@ out
 a.out.*/
 *~
 *.bak
+sol/sol/sol.sln
+sol/sol/sol.sdf
+sol/sol/sol.VC.opendb
